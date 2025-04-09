@@ -1,5 +1,4 @@
 def run_game(game_logic, description):
-    """Движок."""
     print("Welcome!")
     name = input("Say your name? ")
     print(f"Hello, {name}!")
